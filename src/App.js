@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>Hello World</h1>
-      <p>Learn React</p>
+      <a href="https://reactjs.org">Learn React</a>
     </div>
   );
 }
